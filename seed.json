@@ -1,0 +1,779 @@
+{
+ "seq": 100,
+ "settings": {
+  "brand": "SK Publicidad",
+  "tagline": "Your logo on everything your team wears, carries and gifts.",
+  "announcement": "FREE DESIGN PREVIEW | BULK DISCOUNTS FROM 50 PCS | DELIVERY ACROSS SPAIN",
+  "phone": "34679627069",
+  "email": "info@agenciaskpublicidad.com",
+  "hours": "Open 24 hours",
+  "address": "Calle del Salitre, 34, 28012 Madrid, España",
+  "instagram": "https://instagram.com/agenciaskpublicidad",
+  "website": "https://agenciaskpublicidad.com",
+  "occasions": [
+   "Corporate",
+   "Events",
+   "Retail",
+   "Startups"
+  ],
+  "heroSlides": [
+   {
+    "eyebrow": "CORPORATE BRANDING",
+    "title": "Your logo on ID cards, badges and uniforms",
+    "button": "Shop ID cards",
+    "link": "shop.html?cat=id-cards",
+    "image": ""
+   },
+   {
+    "eyebrow": "TEAM WEAR",
+    "title": "T-shirts, polos and caps with your company logo",
+    "button": "Shop apparel",
+    "link": "shop.html?cat=tshirts",
+    "image": ""
+   },
+   {
+    "eyebrow": "GIFTS & GIVEAWAYS",
+    "title": "Mugs, pens and bottles your clients will keep",
+    "button": "Shop gifts",
+    "link": "shop.html?cat=cups",
+    "image": ""
+   }
+  ],
+  "nav": [
+   {
+    "label": "ID Cards",
+    "url": "shop.html?cat=id-cards"
+   },
+   {
+    "label": "Badges",
+    "url": "shop.html?cat=badges"
+   },
+   {
+    "label": "T-Shirts",
+    "url": "shop.html?cat=tshirts"
+   },
+   {
+    "label": "Cups & Pens",
+    "url": "shop.html?cat=cups"
+   },
+   {
+    "label": "Gifts",
+    "url": "shop.html?cat=gifts"
+   },
+   {
+    "label": "Contact",
+    "url": "contact.html"
+   }
+  ],
+  "sections": [
+   {
+    "key": "hero",
+    "on": true
+   },
+   {
+    "key": "trust",
+    "on": true
+   },
+   {
+    "key": "categories",
+    "on": true
+   },
+   {
+    "key": "new",
+    "on": false
+   },
+   {
+    "key": "featured",
+    "on": true
+   },
+   {
+    "key": "best",
+    "on": true
+   },
+   {
+    "key": "occasions",
+    "on": true
+   },
+   {
+    "key": "services",
+    "on": true
+   },
+   {
+    "key": "lookbook",
+    "on": true
+   },
+   {
+    "key": "story",
+    "on": true
+   },
+   {
+    "key": "journal",
+    "on": true
+   },
+   {
+    "key": "social",
+    "on": false
+   },
+   {
+    "key": "newsletter",
+    "on": true
+   }
+  ],
+  "featuredProductIds": [],
+  "featuredCategoryIds": [],
+  "lookbook": [
+   {
+    "image": "",
+    "title": "Office ID cards",
+    "link": "shop.html?cat=id-cards"
+   },
+   {
+    "image": "",
+    "title": "Event T-shirts",
+    "link": "shop.html?cat=tshirts"
+   },
+   {
+    "image": "",
+    "title": "Client gift sets",
+    "link": "shop.html?cat=gifts"
+   }
+  ],
+  "story": {
+   "eyebrow": "Our story",
+   "title": "Your logo, printed right",
+   "text": "We print company logos on ID cards, badges, T-shirts, cups, pens and gifts so your brand gets seen. Share your logo, approve the preview, and we deliver.",
+   "image": "",
+   "button": "Get a quote",
+   "link": "contact.html"
+  },
+  "trust": [
+   "Free design preview",
+   "In-house printing",
+   "Bulk discounts",
+   "Delivery across Spain"
+  ],
+  "instagramImages": [],
+  "footerText": "We drive your business with creative marketing and advertising solutions: graphic design, professional printing, websites, online stores, SEO, Google Ads, social media, branding and merchandising. Quality, speed and personal service across Spain.",
+  "logo": "assets/logo.png",
+  "promoCode": ""
+ },
+ "categories": [
+  {
+   "id": 1,
+   "slug": "id-cards",
+   "name": "ID Cards & Lanyards",
+   "image": "",
+   "description": "PVC ID cards printed edge-to-edge with your logo, photo and employee details.",
+   "visible": true,
+   "order": 1
+  },
+  {
+   "id": 2,
+   "slug": "badges",
+   "name": "Name Badges",
+   "image": "",
+   "description": "Magnetic and pin name badges with your company logo, sharp and reusable.",
+   "visible": true,
+   "order": 2
+  },
+  {
+   "id": 3,
+   "slug": "tshirts",
+   "name": "T-Shirts & Polos",
+   "image": "",
+   "description": "Round-neck and polo T-shirts with DTF, screen or embroidery logo printing.",
+   "visible": true,
+   "order": 3
+  },
+  {
+   "id": 4,
+   "slug": "caps",
+   "name": "Caps & Uniforms",
+   "image": "",
+   "description": "Caps, hoodies and uniform wear branded with your logo for the whole team.",
+   "visible": true,
+   "order": 4
+  },
+  {
+   "id": 5,
+   "slug": "cups",
+   "name": "Cups & Mugs",
+   "image": "",
+   "description": "Ceramic mugs and paper cups printed with your logo and brand colours.",
+   "visible": true,
+   "order": 5
+  },
+  {
+   "id": 6,
+   "slug": "pens",
+   "name": "Pens & Stationery",
+   "image": "",
+   "description": "Plastic and metal pens with laser or colour logo print for office and events.",
+   "visible": true,
+   "order": 6
+  },
+  {
+   "id": 7,
+   "slug": "gifts",
+   "name": "Corporate Gifts",
+   "image": "",
+   "description": "Bottles, diaries, tote bags and gift sets branded for clients and staff.",
+   "visible": true,
+   "order": 7
+  }
+ ],
+ "products": [
+  {
+   "id": 11,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "PVC ID Card with Logo",
+   "category": "id-cards",
+   "occasion": "Corporate",
+   "price": 1.2,
+   "mrp": 1.8,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff"
+   ],
+   "sizes": [],
+   "desc": "Standard CR80 PVC ID card, both sides printed in full colour with your company logo, employee photo, name and ID number. Glossy finish, long-lasting.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "ID-001",
+   "fabric": "PVC 0.76mm, full-colour digital print",
+   "care": "Minimum order 25 cards. Send logo + employee list in Excel.",
+   "sold": 1240
+  },
+  {
+   "id": 12,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "ID Card + Lanyard + Holder Combo",
+   "category": "id-cards",
+   "occasion": "Corporate",
+   "price": 2.9,
+   "mrp": 4.2,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#1d4ed8",
+    "#111111",
+    "#dc2626",
+    "#16a34a"
+   ],
+   "sizes": [],
+   "desc": "Complete set: printed PVC ID card, branded lanyard with your logo and a clear card holder. Ready to wear on day one.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "ID-002",
+   "fabric": "PVC card, polyester lanyard, PVC holder",
+   "care": "Minimum order 25 sets. Lanyard colour matched to your brand.",
+   "sold": 980
+  },
+  {
+   "id": 13,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Printed Lanyards (Logo on Both Sides)",
+   "category": "id-cards",
+   "occasion": "Events",
+   "price": 1.1,
+   "mrp": 1.7,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#1d4ed8",
+    "#111111",
+    "#dc2626",
+    "#f59e0b",
+    "#ffffff"
+   ],
+   "sizes": [],
+   "desc": "Soft polyester lanyards with repeated logo or text print, metal hook and safety breakaway option. Great for events and offices.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "ID-003",
+   "fabric": "Polyester 20mm, dye-sublimation print",
+   "care": "Minimum order 50 pieces.",
+   "sold": 760
+  },
+  {
+   "id": 14,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Magnetic Name Badge",
+   "category": "badges",
+   "occasion": "Corporate",
+   "price": 3.5,
+   "mrp": 5.0,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#c0c0c0",
+    "#d4af37",
+    "#111111"
+   ],
+   "sizes": [],
+   "desc": "Premium magnetic badge with your logo and the wearer's name. No pin holes in clothes, reusable and professional.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "BG-001",
+   "fabric": "Aluminium plate, magnetic back, UV colour print",
+   "care": "Minimum order 10 badges. Free design preview.",
+   "sold": 1520
+  },
+  {
+   "id": 15,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Pin / Safety-Clip Name Badge",
+   "category": "badges",
+   "occasion": "Retail",
+   "price": 2.2,
+   "mrp": 3.2,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111"
+   ],
+   "sizes": [],
+   "desc": "Budget-friendly name badge with pin or safety-clip back. Ideal for retail, hospitals and restaurant staff.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "BG-002",
+   "fabric": "Acrylic / aluminium, pin or clip back",
+   "care": "Minimum order 10 badges.",
+   "sold": 430
+  },
+  {
+   "id": 16,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Round-Neck T-Shirt with Logo",
+   "category": "tshirts",
+   "occasion": "Events",
+   "price": 7.9,
+   "mrp": 10.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111",
+    "#1d4ed8",
+    "#dc2626",
+    "#f59e0b"
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "desc": "180 GSM combed cotton round-neck T-shirt with your logo on chest or back. Perfect for events, promotions and teams.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "TS-001",
+   "fabric": "180 GSM cotton, DTF print",
+   "care": "Minimum order 10 pieces. Bulk discount from 50 pieces.",
+   "sold": 2310
+  },
+  {
+   "id": 17,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Polo T-Shirt with Embroidered Logo",
+   "category": "tshirts",
+   "occasion": "Corporate",
+   "price": 12.9,
+   "mrp": 16.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111",
+    "#1e3a8a",
+    "#7f1d1d",
+    "#14532d"
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "desc": "Dual-tone collar polo in 220 GSM cotton blend with your logo embroidered on the chest. The classic corporate uniform.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "TS-002",
+   "fabric": "220 GSM cotton blend, machine embroidery",
+   "care": "Minimum order 10 pieces.",
+   "sold": 1890
+  },
+  {
+   "id": 18,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Dri-Fit Sports T-Shirt",
+   "category": "tshirts",
+   "occasion": "Events",
+   "price": 9.9,
+   "mrp": 13.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111",
+    "#2563eb",
+    "#ea580c"
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "desc": "Lightweight breathable dri-fit T-shirt with full-front sublimation print. For marathons, tournaments and school sports days.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "TS-003",
+   "fabric": "Polyester dri-fit, sublimation print",
+   "care": "Minimum order 20 pieces.",
+   "sold": 640
+  },
+  {
+   "id": 19,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Cap with Embroidered Logo",
+   "category": "caps",
+   "occasion": "Corporate",
+   "price": 5.9,
+   "mrp": 8.5,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111",
+    "#ffffff",
+    "#1d4ed8",
+    "#dc2626",
+    "#f59e0b"
+   ],
+   "sizes": [],
+   "desc": "Adjustable cotton cap with your logo embroidered on the front. Sun-proof team wear and promotional giveaway.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "CP-001",
+   "fabric": "Cotton twill, 3D / flat embroidery",
+   "care": "Minimum order 25 pieces.",
+   "sold": 870
+  },
+  {
+   "id": 20,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Hoodie with Logo Print",
+   "category": "caps",
+   "occasion": "Startups",
+   "price": 19.9,
+   "mrp": 27.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111",
+    "#6b7280",
+    "#1e3a8a"
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "desc": "Fleece-lined 320 GSM hoodie with your logo printed or embroidered. Winter staff wear and startup merch.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "CP-002",
+   "fabric": "320 GSM fleece, DTF print or embroidery",
+   "care": "Minimum order 10 pieces.",
+   "sold": 320
+  },
+  {
+   "id": 21,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Ceramic Mug with Logo",
+   "category": "cups",
+   "occasion": "Corporate",
+   "price": 5.5,
+   "mrp": 7.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111",
+    "#1d4ed8"
+   ],
+   "sizes": [],
+   "desc": "11 oz white ceramic mug with high-gloss, dishwasher-safe logo print. A gift your clients actually use every day.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "CU-001",
+   "fabric": "Ceramic 11oz, sublimation print",
+   "care": "Minimum order 12 mugs. Gift box optional.",
+   "sold": 1410
+  },
+  {
+   "id": 22,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Magic Colour-Change Mug",
+   "category": "cups",
+   "occasion": "Events",
+   "price": 7.9,
+   "mrp": 10.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111"
+   ],
+   "sizes": [],
+   "desc": "Black mug that reveals your logo and design when a hot drink is poured. A memorable promotional item.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "CU-002",
+   "fabric": "Ceramic 11oz, heat-sensitive coating",
+   "care": "Minimum order 12 mugs.",
+   "sold": 380
+  },
+  {
+   "id": 23,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Printed Paper Cups (Pack of 100)",
+   "category": "cups",
+   "occasion": "Retail",
+   "price": 18.0,
+   "mrp": 24.0,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#ffffff",
+    "#111111"
+   ],
+   "sizes": [],
+   "desc": "Hot and cold drink paper cups with your logo printed all around. For cafes, offices and events.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "CU-003",
+   "fabric": "Food-grade paper, flexo print",
+   "care": "Minimum order 500 cups (5 packs).",
+   "sold": 540
+  },
+  {
+   "id": 24,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Plastic Pen with Logo",
+   "category": "pens",
+   "occasion": "Corporate",
+   "price": 0.45,
+   "mrp": 0.7,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#1d4ed8",
+    "#111111",
+    "#dc2626",
+    "#ffffff"
+   ],
+   "sizes": [],
+   "desc": "Smooth-writing ball pen with your company logo printed on the barrel. The most popular giveaway for offices and shows.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "PN-001",
+   "fabric": "ABS plastic, screen print",
+   "care": "Minimum order 100 pens.",
+   "sold": 5200
+  },
+  {
+   "id": 25,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Metal Pen with Laser Engraved Logo",
+   "category": "pens",
+   "occasion": "Corporate",
+   "price": 1.9,
+   "mrp": 2.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111",
+    "#c0c0c0",
+    "#1e3a8a"
+   ],
+   "sizes": [],
+   "desc": "Premium metal pen with a laser-engraved logo that never fades. Comes in a slim gift box on request.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "PN-002",
+   "fabric": "Aluminium, laser engraving",
+   "care": "Minimum order 50 pens.",
+   "sold": 610
+  },
+  {
+   "id": 26,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Branded Steel Water Bottle",
+   "category": "gifts",
+   "occasion": "Corporate",
+   "price": 9.9,
+   "mrp": 13.9,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111",
+    "#c0c0c0",
+    "#1d4ed8",
+    "#ffffff"
+   ],
+   "sizes": [],
+   "desc": "750 ml stainless steel bottle with your logo laser engraved or colour printed. Keeps drinks hot or cold for hours.",
+   "featured": true,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "GF-001",
+   "fabric": "Stainless steel 750ml, laser / UV print",
+   "care": "Minimum order 25 bottles.",
+   "sold": 720
+  },
+  {
+   "id": 27,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Corporate Diary with Logo",
+   "category": "gifts",
+   "occasion": "Corporate",
+   "price": 7.9,
+   "mrp": 11.5,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#111111",
+    "#1e3a8a",
+    "#7f1d1d"
+   ],
+   "sizes": [],
+   "desc": "A5 hardbound diary with your logo foil-stamped on the cover and optional company details inside. Year-end gifting favourite.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "GF-002",
+   "fabric": "PU cover, 200 pages, foil stamping",
+   "care": "Minimum order 25 diaries.",
+   "sold": 490
+  },
+  {
+   "id": 28,
+   "createdAt": "2026-10-01T10:00:00.000Z",
+   "name": "Cotton Tote Bag with Logo",
+   "category": "gifts",
+   "occasion": "Events",
+   "price": 2.9,
+   "mrp": 4.2,
+   "image": "",
+   "images": [],
+   "colors": [
+    "#f5f0e1",
+    "#111111",
+    "#1d4ed8"
+   ],
+   "sizes": [],
+   "desc": "Sturdy canvas tote with your logo screen printed. Perfect for conferences, exhibitions and retail packaging.",
+   "featured": false,
+   "active": true,
+   "status": "published",
+   "stock": null,
+   "sku": "GF-003",
+   "fabric": "Cotton canvas, screen print",
+   "care": "Minimum order 50 bags.",
+   "sold": 950
+  }
+ ],
+ "blogs": [
+  {
+   "id": 1,
+   "title": "How to Choose the Right Logo Print Method",
+   "cat": "Guide",
+   "date": "2026-10-20",
+   "image": "",
+   "excerpt": "Screen, DTF, sublimation or embroidery? A quick guide to picking the right method for each product.",
+   "body": [
+    "Screen printing is best for large runs with one or two colours. It is durable and cost-effective for T-shirts and tote bags.",
+    "DTF handles full-colour logos and photos on cotton and blends without minimum colour limits. Embroidery gives a premium feel on polos and caps.",
+    "Not sure? Send your logo and we will suggest the best method and show a free preview before printing."
+   ],
+   "published": true,
+   "html": "",
+   "seoTitle": "",
+   "seoDesc": ""
+  },
+  {
+   "id": 2,
+   "title": "5 Branded Items That Actually Get Used",
+   "cat": "Branding",
+   "date": "2026-10-08",
+   "image": "",
+   "excerpt": "Not every giveaway works. These five keep your logo in front of people every single day.",
+   "body": [
+    "Mugs, pens, bottles, diaries and T-shirts top the list because people use them daily at work or home.",
+    "Choose quality over quantity. A well-made bottle is kept for years while a cheap giveaway is thrown away.",
+    "Match the item to your audience: staff get uniforms, clients get diaries and bottles, event guests get tote bags and pens."
+   ],
+   "published": true,
+   "html": "",
+   "seoTitle": "",
+   "seoDesc": ""
+  },
+  {
+   "id": 3,
+   "title": "ID Cards and Lanyards: What Every Office Needs",
+   "cat": "Corporate",
+   "date": "2026-09-24",
+   "image": "",
+   "excerpt": "Photo ID cards improve security and make your team look professional. Here is how to order them right.",
+   "body": [
+    "Collect employee names, designations, IDs and photos in one spreadsheet. Clean photos with plain backgrounds print best.",
+    "Match lanyard colours to your brand and add a retractable holder if staff swipe cards at doors.",
+    "Order a few extra cards for new joiners so onboarding is smooth."
+   ],
+   "published": true,
+   "html": "",
+   "seoTitle": "",
+   "seoDesc": ""
+  }
+ ],
+ "orders": []
+}
